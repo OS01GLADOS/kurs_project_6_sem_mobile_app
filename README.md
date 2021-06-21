@@ -1,0 +1,1 @@
+# kurs_project_6_sem_mobile_app
