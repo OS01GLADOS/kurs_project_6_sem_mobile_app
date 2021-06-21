@@ -1,0 +1,2 @@
+# kurs_project_6_sem_mobile_app
+Mobile app for kurs_project_6_sem_web_app
